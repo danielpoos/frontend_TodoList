@@ -1,0 +1,27 @@
+body{
+    background-color: cadetblue;
+}
+.athuzott{
+    text-decoration: line-through;
+}
+#inputfield *{
+    border: #333 3px solid;
+}
+#gomb{
+    color: white;
+    background-color: #333;
+}
+li{
+    border-bottom: 1px grey solid;
+    width: 30%;
+}
+li *{
+    margin: auto 5px;
+}
+span:nth-child(2n-1){
+    float: right;
+}
+#had{
+    float: left;
+    margin: auto 10px;
+}
